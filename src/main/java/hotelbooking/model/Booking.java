@@ -1,4 +1,4 @@
-package hei.hotelbooking.model;
+package hotelbooking.model;
 
 import java.time.LocalDate;
 
