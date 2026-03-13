@@ -1,4 +1,4 @@
-package hei.hotelbooking.controller;
+package hotelbooking.controller;
 
 import hei.hotelbooking.model.Booking;
 import org.springframework.http.HttpStatus;
